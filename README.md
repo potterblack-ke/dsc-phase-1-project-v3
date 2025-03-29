@@ -30,7 +30,7 @@ Further analyses could yield additional insights for the Avionics Division inclu
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./presentation.pdf).
 
 For additional info, contact Tim Musungu at [tim.musungu@moringa.student.com](mailto:tim.musungu@moringa.student.com)
 
